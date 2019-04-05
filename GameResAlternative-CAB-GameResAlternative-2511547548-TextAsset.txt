@@ -1,0 +1,4 @@
+0 TextAsset Base
+ 1 string m_Name = "GameResAlternative"
+ 1 string m_Script = "$mulonggame_table_1"
+ 1 string m_PathName = ""
